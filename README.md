@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
 
-  ## BEM VINDO A 3ª LISTA DE INTRODUÇÃO A PROGRAMAÇÃO -- LISTAS (ARRAYS).
-
+ <h1> BEM VINDO A 3ª LISTA DE INTRODUÇÃO A PROGRAMAÇÃO -- LISTAS (ARRAYS). </h1>
+<div align="center">
+  
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/LucasCabra7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -15,7 +16,9 @@
 </div>
 
 <h2> ⚙️ FERRAMENTAS: </h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
 
 
 <h2> 📋 CONCEITOS: </h2>
